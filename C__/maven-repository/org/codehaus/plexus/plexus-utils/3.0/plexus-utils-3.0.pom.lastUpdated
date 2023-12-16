@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 28 10:00:39 BST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1651136439372
+@default-nexus-http\://dml.ebs.ecomp.com\:8081/repository/maven-public/.lastUpdated=1651136439248
+http\://dml.ebs.ecomp.com\:8081/repository/maven-public/.error=Could not transfer artifact org.codehaus.plexus\:plexus-utils\:pom\:3.0 from/to nexus (http\://dml.ebs.ecomp.com\:8081/repository/maven-public)\: Transfer failed for http\://dml.ebs.ecomp.com\:8081/repository/maven-public/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.pom

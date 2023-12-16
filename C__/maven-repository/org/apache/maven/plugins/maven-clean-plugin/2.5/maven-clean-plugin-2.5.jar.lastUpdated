@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 28 10:00:38 BST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1651136438352
+@default-nexus-http\://dml.ebs.ecomp.com\:8081/repository/maven-public/.lastUpdated=1651136438128
+http\://dml.ebs.ecomp.com\:8081/repository/maven-public/.error=Could not transfer artifact org.apache.maven.plugins\:maven-clean-plugin\:jar\:2.5 from/to nexus (http\://dml.ebs.ecomp.com\:8081/repository/maven-public)\: Transfer failed for http\://dml.ebs.ecomp.com\:8081/repository/maven-public/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar

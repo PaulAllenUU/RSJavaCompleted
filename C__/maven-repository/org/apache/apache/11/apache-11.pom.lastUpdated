@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 27 19:59:22 BST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1651085962191
+@default-nexus-http\://dml.ebs.ecomp.com\:8081/repository/maven-public/.lastUpdated=1651085962035
+http\://dml.ebs.ecomp.com\:8081/repository/maven-public/.error=Could not transfer artifact org.apache\:apache\:pom\:11 from/to nexus (http\://dml.ebs.ecomp.com\:8081/repository/maven-public)\: Transfer failed for http\://dml.ebs.ecomp.com\:8081/repository/maven-public/org/apache/apache/11/apache-11.pom

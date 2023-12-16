@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 27 19:59:48 BST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1651085988058
+@default-nexus-http\://dml.ebs.ecomp.com\:8081/repository/maven-public/.lastUpdated=1651085984572
+http\://dml.ebs.ecomp.com\:8081/repository/maven-public/.error=Could not transfer artifact org.codehaus.plexus\:plexus-classworlds\:jar\:2.2.2 from/to nexus (http\://dml.ebs.ecomp.com\:8081/repository/maven-public)\: Transfer failed for http\://dml.ebs.ecomp.com\:8081/repository/maven-public/org/codehaus/plexus/plexus-classworlds/2.2.2/plexus-classworlds-2.2.2.jar

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 27 19:59:40 BST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1651085980026
+@default-nexus-http\://dml.ebs.ecomp.com\:8081/repository/maven-public/.lastUpdated=1651085979980
+http\://dml.ebs.ecomp.com\:8081/repository/maven-public/.error=Could not transfer artifact com.google.code.findbugs\:jsr305\:pom\:2.0.1 from/to nexus (http\://dml.ebs.ecomp.com\:8081/repository/maven-public)\: Transfer failed for http\://dml.ebs.ecomp.com\:8081/repository/maven-public/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.pom

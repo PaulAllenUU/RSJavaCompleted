@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 27 19:59:26 BST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1651085966410
+@default-nexus-http\://dml.ebs.ecomp.com\:8081/repository/maven-public/.lastUpdated=1651085966355
+http\://dml.ebs.ecomp.com\:8081/repository/maven-public/.error=Could not transfer artifact classworlds\:classworlds\:pom\:1.1-alpha-2 from/to nexus (http\://dml.ebs.ecomp.com\:8081/repository/maven-public)\: Transfer failed for http\://dml.ebs.ecomp.com\:8081/repository/maven-public/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom
