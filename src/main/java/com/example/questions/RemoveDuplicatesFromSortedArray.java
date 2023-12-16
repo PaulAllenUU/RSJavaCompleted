@@ -19,7 +19,7 @@ public class RemoveDuplicatesFromSortedArray {
     - will need another pointer to keep track of current element in populating sorted unique array
 
     Pseudocode
-    - use arrays utility class to sort the array or use custom quick sort method
+    - use arrays utility class to sort the array
     - use for loop to iterate over every other element and compare i+1 with i
     - if i==i+1 then add to new array
     - declare pointer to keep track of current place in array and increment pointer each loop
